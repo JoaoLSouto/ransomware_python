@@ -1,5 +1,5 @@
-# criando um ransoware com python.
-### Aplicação de ransoware usando pyhton para criptografia e descriptografia de arquivos. 
+# criando um ransomware com python.
+### Aplicação de ransomware usando pyhton para criptografia e descriptografia de arquivos. 
 
 ### Biblioteca de criptografia:
 - Payes
